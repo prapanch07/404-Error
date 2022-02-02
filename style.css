@@ -1,0 +1,147 @@
+
+    h1{  
+        position: absolute;
+    width: 586px;
+    height: 190px;
+    left: 735px;
+    top: 265px;
+    color: #333333;
+    
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    
+    }
+    
+    
+    h5{
+        position: absolute;
+    
+    left: 77px;
+    top: 40px;
+    
+    
+    font-family: Inconsolata;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: #333333;
+    
+    }
+    
+    h6{
+        position: absolute;
+    width: 381px;
+    height: 108px;
+    left: 736px;
+    top: 491px;
+    
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 10px;
+    letter-spacing: 4px;
+    
+    
+    
+    color: #4F4F4F;
+    
+    }
+    .hai{
+        position: absolute;
+    left: 5.35%;
+    right: 57.21%;
+    top: 24.54%;
+    bottom: 34.03%;
+    height:447.43px;
+    width: 539.22px;
+    
+    }
+    button{
+        position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 663px;
+    
+    background: #333333;
+    
+    }
+    h4{
+        font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+    
+    color: #FFFF;
+    }
+    
+@media only screen and (max-width:480px) {
+
+    h5{
+left: 24px;
+top: 20px;
+    }
+
+    h1{
+            position: absolute;
+width: 350px;
+height: 142px;
+left: 24px;
+top: 407px;
+
+font-family: Space Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 71px;
+letter-spacing: -0.035em;
+
+color: #333333;
+
+     }
+    h6{
+        position: absolute;
+width: 328px;
+height: 81px;
+left: 23px;
+top: 579px;
+
+font-family: Space Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: -0.035em;
+
+color: #4F4F4F;
+    }
+   button{
+  
+    left: 24px;
+    top: 780px;
+    
+ 
+   }
+   .hai{
+    position: absolute;
+    left: 11.73%;
+    right: 11.78%;
+    top: 17.49%;
+    bottom: 63.44%;
+    height: 238px;
+    width: 286.83px;
+    
+   }
+ 
+}
